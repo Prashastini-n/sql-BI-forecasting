@@ -6,7 +6,7 @@
 End-to-end analytics project that transforms retail transaction data into **actionable business insights** using SQL and Power BI.
 The focus is on KPI analysis, trend identification, and executive-level reporting.
 
----
+
 
 ## Business Objectives
 
@@ -15,7 +15,7 @@ The focus is on KPI analysis, trend identification, and executive-level reportin
 * Track monthly revenue trends
 * Deliver a decision-ready Power BI dashboard
 
----
+
 
 ## Dataset
 
@@ -27,7 +27,7 @@ This project uses the **Global Superstore Retail Dataset**.
 > The dataset is not hosted in this repository due to licensing considerations.
 > Download the file and import it into MySQL before running the SQL scripts.
 
----
+
 
 ## Analytics Work Performed
 
@@ -37,7 +37,7 @@ This project uses the **Global Superstore Retail Dataset**.
 * Analyzed revenue trends and profitability
 * Developed an executive-level Power BI dashboard
 
----
+
 
 ## Key Insights
 
@@ -45,7 +45,7 @@ This project uses the **Global Superstore Retail Dataset**.
 * Certain regions contribute disproportionately to overall profit
 * A small subset of products drives the majority of profitability
 
----
+
 
 ## Power BI Dashboard
 
@@ -56,7 +56,7 @@ The dashboard provides a consolidated view of:
 * Regional performance comparison
 * Product-level profitability
 
----
+
 
 ## Outcome
 
@@ -66,6 +66,6 @@ This project demonstrates the ability to:
 * Translate data into insights for stakeholders
 * Present results through clean, executive-ready dashboards
 
-**Author:** Prashastini N
+
 
 
