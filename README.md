@@ -41,6 +41,15 @@ This project uses the **Global Superstore Retail Dataset**.
 
 ## Key Insights
 
+* Analyzed 51,290 transactions generating $12.64M in revenue and $1.47M in profit
+* Achieved an overall profit margin of 11.61% across operations
+* Processed 178,312 units sold across 3,788 products and 17,415 customers
+* Covered 23 global regions over a 48-month period (2012–2015)
+* Identified Western Europe as the top-performing region with $1.73M in revenue
+* Identified Canon imageCLASS 2200 Advanced Copier as the most profitable product generating $25.2K profit
+* Observed consistent revenue trends with seasonal variation across months
+
+
 * Revenue shows consistent month-over-month growth with seasonal variation
 * Certain regions contribute disproportionately to overall profit
 * A small subset of products drives the majority of profitability
